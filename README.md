@@ -10,4 +10,7 @@ A new Flutter project demonstrating custom keypad with code fields & widget.
 - Validations are handled.
 - Nicely split into widgets
 
-## Demo 
+## Demo
+
+<img src="https://user-images.githubusercontent.com/49707515/150672348- c49c627b-0784-44b0-aef1-483d1c1d413b.gif" width ="300"> 
+
